@@ -1,5 +1,5 @@
  Exercise using Software as a Service: Google Cloud Vision API
  
- Application : https://saas-ex.uc.r.appspot.com/
+ Application : https://vision-api-310323.wl.r.appspot.com/
 
 
